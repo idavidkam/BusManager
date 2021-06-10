@@ -11,6 +11,7 @@ Bus fleet management software.
 - User List Management Add / Delete / Change Details / Change Password / Password Recovery
 - Taking out a bus for treatment
 - All this is controlled by a beautiful and eye-pleasing user interface
+- Built in the three-layer model
 
 For log in:
 User Name: "1"
